@@ -1,0 +1,122 @@
+#nav{
+    background-color: #046aa2 !important;
+}
+nav a{
+    text-decoration: none;
+    color:rgba(255,255,255,.5);
+}
+nav a:hover{
+    color:#fff;
+}
+nav li{
+    list-style-type: none;
+}
+
+#meni{
+    
+    background-color: #046aa2;
+    float: left;
+    width: 11%;
+    padding-left: 3%;
+}
+
+#meni li{
+    padding: 9%;
+    font-size: 16px;
+}
+.sadrzaj{
+    margin-top:10%;
+   
+}
+
+form{
+    width:40%;
+    margin-left:25%;
+}
+
+.error{
+    color:red;
+    display:none;
+}
+
+#galerija{
+min-height: 700px;
+width:72%;
+ margin-left: 12%;
+}
+
+.example-image{
+    width:300px;
+    height:200px;
+    padding-left:1%;
+    padding-bottom:1%;
+}
+
+#autor{
+        width:80%;
+        margin-left:15%;
+        margin-top:20%;
+}
+.row{
+   width:80%;
+   margin-left:10%;
+   margin-top: 1%;
+}
+
+#komentarText{
+    width:250%;
+    margin-left: -63%;
+}
+#komentarBtn{
+
+    margin-left: 130%;
+}
+
+#kategorije{
+    
+margin-left: 58%;
+ width: 570px;
+ margin-bottom: 5%;
+    
+
+}
+#paginacija{
+    margin-left:48%;
+    margin-top: 3%;
+    font-size: 39px;
+}
+#anketa{
+        width: 500px;
+    margin-left: 18%;
+
+}
+
+#korisnik{
+    min-height:600px;
+}
+
+#table{
+    text-align: center;
+    margin-left: 25%;
+}
+
+#anketaObavestenje{
+  display: none;
+}
+
+
+.postovi{
+    width:70%;
+    
+}
+
+#dodajMeni{
+  width: 70%;
+  margin-bottom: 30%;
+}
+
+
+.footer{
+    color:white;
+}
+
